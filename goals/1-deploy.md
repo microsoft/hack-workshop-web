@@ -1,6 +1,6 @@
 # Goal 1: Deploy to the cloud
 
-The Loved Mutt application is a full-stack application (or sometimes called a static web app). All the necessary code for both the client and server are contained inside one project, and the client uses a framework (Svelte in this case). The application also requires access to a database which uses Mongo DB APIs, and the ability to enable authentication.
+The pet shelter's application is a full-stack application (or sometimes called a static web app). All the necessary code for both the client and server are contained inside one project, and the client uses a framework (Svelte in this case). The application also requires access to a database which uses Mongo DB APIs, and the ability to enable authentication.
 
 For this goal, your team will deploy the application to Azure. Future goals will focus on authentication and the database.
 

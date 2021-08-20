@@ -1,6 +1,6 @@
 # Goal 0: Obtain the source code
 
-Whenever working on any project, step 0 is typically to fork and clone the repository, and install the necessary tooling. To streamline this process, The Loved Mutt have provided your team with step-by-step instructions.
+Whenever working on any project, step 0 is typically to fork and clone the repository, and install the necessary tooling. To streamline this process, The pet shelter has provided your team with step-by-step instructions.
 
 ## About the application
 
