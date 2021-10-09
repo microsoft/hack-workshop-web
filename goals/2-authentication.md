@@ -6,7 +6,7 @@ You may remember the primary workflow for the application is to allow users to c
 
 ## The Azure Service
 
-[Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization) are built-in to Azure Static Web Apps. No additional configuration is required to allow users to login with Azure Active Directory, Twitter or GitHub authentication. You can add a link to the login page, and then add the necessary code to determine the name of the user and any additional actions you may wish to take.
+[Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization?WT.mc_id=academic-28005-chrhar) are built-in to Azure Static Web Apps. No additional configuration is required to allow users to login with Azure Active Directory, Twitter or GitHub authentication. You can add a link to the login page, and then add the necessary code to determine the name of the user and any additional actions you may wish to take.
 
 ## Application notes
 
