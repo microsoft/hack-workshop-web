@@ -1,18 +1,18 @@
 # Goal 1: Create cloud resources and deploy the website
 
-Many developers use templates or other samples to help bootstrap their projects. Rather than building from scratch, the pet shelter wants to minimize the startup steps as best as possible. Towards that end, they would like your team to use an [already built template](https://github.com/staticwebdev/mongoose-starter) for [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-28005-chrhar). The template includes the following:
+Many developers use templates or other samples to help bootstrap their projects. Rather than building from scratch, the pet shelter wants to minimize the startup steps where possible. They would like your team to use a [pre-built template](https://github.com/staticwebdev/mongoose-starter) for [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-28005-chrhar), and configure the cloud resources necessary to host the template.
+
+## The goal
+
+For this goal, your team will deploy a [template built for Azure Static Web Apps](https://github.com/staticwebdev/mongoose-starter). The template includes:
 
 - Client app written with HTML, CSS and vanilla JavaScript
 - Server-side code using [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=academic-28005-chrhar) and [Mongoose](https://mongoosejs.com/) to interact with the database
 
-## The goal
-
-For this goal, your team will deploy the sample to Azure. During the process, you will create the following resources:
+Your team will also create and configure the following resources on Azure to host the project:
 
 - Azure Static Web App to host the project
 - [Azure Cosmos DB API for MongoDB](https://docs.microsoft.com/azure/cosmos-db/mongodb/mongodb-introduction?WT.mc_id=academic-28005-chrhar) to store the data
-
-Additionally, you will configure the Static Web App with the correct connection string to the database.
 
 ## The Azure Services
 
@@ -24,7 +24,7 @@ Finally, [Azure Cosmos DB API for MongoDB](https://docs.microsoft.com/azure/cosm
 
 ## Application notes
 
-Your team will use the [Static Web Apps - Mongoose starter](https://github.com/staticwebdev/mongoose-starter) as the base for the shelter's site. The template is documented and heavily commented.
+Your team will use the [Static Web Apps - Mongoose starter](https://github.com/staticwebdev/mongoose-starter) as the base for the shelter's site. You will find documentation about the template on the repository, and the code is heavily commented.
 
 ## Success criteria
 
@@ -39,10 +39,10 @@ Your team will work together to deploy the application to Azure using Azure Stat
 
 ## Resources
 
-Your team might find these resources helpful:
+These resources should help provide your team with the necessary information to accomplish the goal:
 
-- [Tutorial: Access data in Cosmos DB using Mongoose with Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-mongoose?WT.mc_id=academic-28005-chrhar)
 - [What is Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-28005-chrhar)
+- [Tutorial: Access data in Cosmos DB using Mongoose with Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-mongoose?WT.mc_id=academic-28005-chrhar)
 
 ## Validation
 

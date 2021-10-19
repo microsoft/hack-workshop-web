@@ -1,12 +1,12 @@
 # Goal 3 - Modifying the site
 
-Congratulations on setting up the project for local development! Now that you've got it locally it's time to start making changes.
+Congratulations on setting up the project for local development! Now that everyone on your team has a copy running locally it's time to make some modifications to the code.
 
-Because the shelter wants to allow adopters to use the site to manage tasks related to pet adoption, they would like to update the header and push those changes to the cloud.
+Because the shelter wants to allow adopters to use the site to manage tasks related to pet adoption, they would like to update the site. They want the header to reflect the purpose of the site, for managing a list of tasks for pet adoption.
 
 ## The goal
 
-Your team will finish by making a change to the site. Your team will update the header text to read "Pet Adoption Tasks", and redeploy the site.
+Your team will complete this workshop by making and deploying a modification to the site. The header text needs to be updated to read "Pet Adoption Tasks" and the changes pushed to Azure.
 
 ## The Azure Service
 
